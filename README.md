@@ -1,4 +1,6 @@
 # Traffic Light Simulation
+Group work by:
+
 Sudi Hagestam- C024/404166/2024 (QuantumXG )
 
 Gift Nzioka - C024/404112/2024 (Br0wsky)
