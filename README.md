@@ -5,6 +5,8 @@ Sudi Hagestam- C024/404166/2024 (QuantumXG )
 
 Gift Nzioka - C024/404112/2024 (Br0wsky)
 
+Jentrix Odwor - C024/404126/2024(Odna527)
+
 *A realistic traffic light simulator that behaves like a smart traffic management system. Think of it like a smart traffic pollice or sth on those lines.*
 
 ## Features
