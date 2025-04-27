@@ -1,5 +1,9 @@
 # Traffic Light Simulation
-*A realistic traffic light simulator that behaves like a smart traffic management system. THink of it like a smart traffic pollice or sth on those lines.*
+Sudi Hagestam- C024/404166/2024 (QuantumXG )
+
+Gift Nzioka - C024/404112/2024 (Br0wsky)
+
+*A realistic traffic light simulator that behaves like a smart traffic management system. Think of it like a smart traffic pollice or sth on those lines.*
 
 ## Features
 - Dynamic traffic light timing system
